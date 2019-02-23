@@ -1,5 +1,4 @@
 class Person
-  puts "People are truly the worst."
 end
 
 adele_goldberg = Person.new
